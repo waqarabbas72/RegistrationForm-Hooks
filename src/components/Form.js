@@ -93,7 +93,7 @@ const Form = () => {
               value={inputData.password}
               name="password"
             />
-            <VisibilityIcon />
+            {/* <VisibilityIcon /> */}
            </div>
             <Button variant="contained" color="primary" type="submit" fullWidth>
               Submit
